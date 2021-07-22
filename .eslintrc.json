@@ -3,9 +3,6 @@
 	"parserOptions": {
 		"project": "./tsconfig.json"
 	},
-	"env": {
-		"jest/globals": true
-	},
 	"rules": {
 		"@typescript-eslint/consistent-type-definitions": "off",
 		"@typescript-eslint/no-namespace": "off",
